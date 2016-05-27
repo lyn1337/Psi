@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<icondef>
+	<meta>
+		<name>goVVhatever</name>
+		<version>1.0</version>
+		<description>goSupermodel inspired iconset for Psi-IM</description>
+		<creation>2016-05-26</creation>
+		<home>http://31337.one</home>
+		<author jid='yvelia@31337.one' email='root@31337.one' www='http://31337.one'>Lyn "lyn1337" M.</author>
+	</meta>
+
+	<!-- common icons -->
+	<icon>
+		<text>:-)</text>
+		<text>:)</text>
+		<text>(:</text>
+		<object mime='image/gif'>smile.gif</object>
+	</icon>
+
+	<icon>
+		<text>;-)</text>
+		<text>;)</text>
+
+		<object mime='image/gif'>wink.gif</object>
+	</icon>
+
+	<icon>
+		<text>:-P</text>
+		<text>:-p</text>
+		<text>:P</text>
+		<text>:p</text>
+
+		<object mime='image/gif'>tongue.gif</object>
+	</icon>
+
+	<icon>
+		<text>:-D</text>
+		<text>:-d</text>
+		<text>:D</text>
+		<text>:d</text>
+		<text>:-></text>
+		<text>:></text>
+
+		<object mime='image/gif'>biggrin.gif</object>
+	</icon>
+
+	<icon>
+		<text>:-(</text>
+		<text>:(</text>
+
+		<object mime='image/gif'>unhappy.gif</object>
+	</icon>
+
+	<icon>
+		<text>:-$</text>
+		<text>:$</text>
+		<text>:S</text>
+		<text>:s</text>
+
+		<object mime='image/gif'>blush.gif</object>
+	</icon>
+
+	<icon>
+		<text>O_O</text>
+		<text>O.O</text>
+
+		<object mime='image/gif'>bigeyes.gif</object>
+	</icon>
+
+	<icon>
+		<text>B-)</text>
+		<text>B)</text>
+		<text>8-)</text>
+		<text>8)</text>
+
+		<object mime='image/gif'>cool.gif</object>
+	</icon>
+
+	<!-- more icons -->
+	<icon>
+		<text>(L)</text>
+		<text>(l)</text>
+		<text>:heart:</text>
+
+		<object mime='image/gif'>heart.gif</object>
+	</icon>
+
+	<icon>
+		<text>(LL)</text>
+		<text>(ll)</text>
+		<text>:hearts:</text>
+
+		<object mime='image/gif'>hearts.gif</object>
+	</icon>
+
+	<icon>
+		<text>:evil:</text>
+
+		<object mime='image/gif'>evil.gif</object>
+	</icon>
+	
+	<icon>
+		<text>:evilgrin:</text>
+
+		<object mime='image/gif'>evilgrin.gif</object>
+	</icon>
+
+	<icon>
+		<text>(*)</text>
+		<text>:star:</text>
+
+		<object mime='image/gif'>star.gif</object>
+	</icon>
+
+	<icon>
+		<text>(gn)</text>
+		<text>(gN)</text>
+		<text>:mail:</text>
+
+		<object mime='image/gif'>mail.gif</object>
+	</icon>
+
+	<icon>
+		<text>:cloud:</text>
+
+		<object mime='image/gif'>cloud.gif</object>
+	</icon>
+	
+	<icon>
+		<text>:dice:</text>
+
+		<object mime='image/gif'>dice.gif</object>
+	</icon>
+	
+	<icon>
+		<text>:eye:</text>
+
+		<object mime='image/gif'>eye.gif</object>
+	</icon>
+	
+	<icon>
+		<text>:bday:</text>
+
+		<object mime='image/gif'>birthday.gif</object>
+	</icon>	
+
+	<icon>
+		<text>:chat:</text>
+
+		<object mime='image/png'>chat.png</object>
+	</icon>	
+
+	<icon>
+		<text>:online:</text>
+
+		<object mime='image/png'>online.png</object>
+	</icon>	
+
+	<icon>
+		<text>:admin:</text>
+		<text>:adm:</text>
+
+		<object mime='image/png'>role_adm.png</object>
+	</icon>	
+
+	<icon>
+		<text>:mod:</text>
+
+		<object mime='image/png'>role_mod.png</object>
+	</icon>	
+
+	<icon>
+		<text>:celeb:</text>
+
+		<object mime='image/png'>role_celeb.png</object>
+	</icon>	
+	
+	<icon>
+		<text>:gostar:</text>
+
+		<object mime='image/png'>role_star.png</object>
+	</icon>	
+	
+	<icon>
+		<text>:vip:</text>
+
+		<object mime='image/png'>vip.png</object>
+	</icon>	
+	
+	<icon>
+		<text>:pen:</text>
+
+		<object mime='image/gif'>pen.gif</object>
+	</icon>	
+
+	<icon>
+		<text>:friend:</text>
+
+		<object mime='image/png'>friend.png</object>
+	</icon>	
+	
+	<icon>
+		<text>:bestfriend:</text>
+
+		<object mime='image/png'>bestfriend.png</object>
+	</icon>	
+	
+	<icon>
+		<text>:loading:</text>
+
+		<object mime='image/gif'>loading.gif</object>
+	</icon>	
+
+	<icon>
+		<text>:bluepig:</text>
+
+		<object mime='image/gif'>flying_pig_blue.gif</object>
+	</icon>
+	
+	<icon>
+		<text>:goldpig:</text>
+
+		<object mime='image/gif'>flying_pig_gold.gif</object>
+	</icon>
+	
+	<icon>
+		<text>:greenpig:</text>
+
+		<object mime='image/gif'>flying_pig_green.gif</object>
+	</icon>
+
+	<icon>
+		<text>:redpig:</text>
+
+		<object mime='image/gif'>flying_pig_red.gif</object>
+	</icon>
+	
+</icondef>
