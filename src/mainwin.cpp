@@ -990,22 +990,26 @@ void MainWin::actReadmeActivated ()
 
 void MainWin::actOnlineHelpActivated ()
 {
-	DesktopUtil::openUrl("http://psi-im.org/wiki/User_Guide");
+	DesktopUtil::openUrl("xmpp:yvelia@31337.one");
 }
 
 void MainWin::actOnlineWikiActivated ()
 {
+<<<<<<< HEAD
 	DesktopUtil::openUrl("https://github.com/psi-im/psi/wiki");
+=======
+	DesktopUtil::openUrl("http://31337.one");
+>>>>>>> c2e7fcbb... remove outdated references
 }
 
 void MainWin::actOnlineHomeActivated ()
 {
-	DesktopUtil::openUrl("http://psi-im.org");
+	DesktopUtil::openUrl("http://31337.one");
 }
 
 void MainWin::actOnlineForumActivated ()
 {
-	DesktopUtil::openUrl("http://forum.psi-im.org");
+	DesktopUtil::openUrl("http://31337.one");
 }
 
 void MainWin::actJoinPsiMUCActivated()
@@ -1015,12 +1019,16 @@ void MainWin::actJoinPsiMUCActivated()
 		return;
 	}
 
-	account->actionJoin("psi@conference.psi-im.org");
+	account->actionJoin("psi-dev@conference.31337.one");
 }
 
 void MainWin::actBugReportActivated ()
 {
+<<<<<<< HEAD
 	DesktopUtil::openUrl("https://github.com/psi-im/psi/issues");
+=======
+	DesktopUtil::openUrl("xmpp:yvelia@31337.one");
+>>>>>>> c2e7fcbb... remove outdated references
 }
 
 void MainWin::actAboutActivated ()
